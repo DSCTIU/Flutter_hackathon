@@ -1,2 +1,8 @@
-# Flutter_hackathon
-Our Flutter app in WTM Flutter Hackathon
+# flutter_app_hackathon
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
